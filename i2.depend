@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1629397489 source:c:\users\kerem\onedrive\masaüstü\c,c++\i2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
